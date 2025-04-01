@@ -1,0 +1,39 @@
+.app {
+  text-align: center;
+  background-color: black;
+  color: lightgray;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.upload-btn {
+  padding: 10px 20px;
+  background-color: #28a745;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.upload-btn:hover {
+  background-color: #218838;
+}
+
+.file-list {
+  margin-top: 20px;
+}
+
+.file-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.file-list li {
+  margin: 5px 0;
+  color: lightgray;
+}
