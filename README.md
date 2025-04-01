@@ -99,12 +99,6 @@ To deploy yourself:
    - **Publish directory**: `build`
 4. Click **Deploy**
 
-Your app will be hosted at a Netlify-generated URL like:
-
-```
-https://your-app-name.netlify.app
-```
-
 ---
 
 
